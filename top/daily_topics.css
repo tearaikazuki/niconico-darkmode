@@ -1,108 +1,442 @@
-#logo_zero a{
-  filter: invert();
-}
-.head_yesterday, .head_tomorrow{
-  filter: invert();
-}
-#header_date p, .date, .days{
-  color: white !important;
-}
-#header_date h1{
-  border-bottom: 1px solid #767676 !important;
+@charset "UTF-8";
+.niconico-darkmode-setting-true #sideHeader a {
+  color: #FEFEFE !important;
 }
 
-#navigation{
+.niconico-darkmode-setting-true #sideHeader #siteHeaderInner ul li ul {
+  background: #272727 !important;
+}
+
+.niconico-darkmode-setting-true #sideHeader #siteHeaderLeftMenuContainer li a :hover {
+  color: black !important;
+}
+
+.niconico-darkmode-setting-true #sideHeader #siteHeaderNotification .siteHeaderNotificationContainer #siteHeaderNotificationWithNotification dd a {
+  background: #35393B !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-15gxh1a,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1cuw74j,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5onxr7 {
+  background-color: #252525 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1319btw {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g0o5vq:hover,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-10swg38:hover {
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5x0u19:hover,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5onxr7:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-ibyxl4 {
   background: none !important;
 }
-#navigation span{
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3 {
+  background-color: #252525 !important;
+  border: solid 2px #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover {
+  background-color: #D1A437 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover .common-header-1iolkct svg g g,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover .common-header-1sypczf {
+  fill: #FFFFFF !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1sypczf {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-zz80x3 {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-zz80x3:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-430bj8 {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-cvcm83 > * {
+  border-top: 1px solid #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1gq7o6w {
+  background-color: #252525 !important;
+  border-bottom: #333 1px solid !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1gq7o6w:hover {
+  background-color: #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1u02t5o {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-xp52wl {
+  border: #333 2px solid !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-xp52wl:hover {
+  background-color: #CC0000 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-yrq9nc {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4 {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4:nth-child(2n) {
+  border-left: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-11j62e9 {
+  background-color: #252525 !important;
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4:hover, .niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-11j62e9:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1l1lwin {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-9wgpqv {
+  background-color: #252525 !important;
+  border-top: 1px solid #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-abyv5k {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-sig2g svg path {
+  fill: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-kolmxm,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1swev0c {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #555555 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-kolmxm div,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1swev0c div {
+  color: #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-2cl2ey,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-uruoug {
+  background-color: #333333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-105n2rz {
+  background-color: #252525 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-g0cqhq {
+  border-bottom: none !important;
+}
+
+/*設定ボタン*/
+.common-header-nicodarksetting-but:hover {
+  background-color: #555555;
+}
+
+.common-header-nicodarksetting-but:hover > .nicodark-setting-menupanel {
+  display: block !important;
+}
+
+.common-header-nicodarksetting-but::after {
+  content: "";
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 0px;
+  height: 14px;
+  border-right: 1px solid #555555;
+}
+
+.nicodark-setting-menupanel {
+  display: none;
+  position: absolute;
+  width: 200px;
+  right: 0;
+  background: #252525;
+}
+
+.nicodark-setting-menupanel .nicodark-logo {
+  width: 100%;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu {
+  padding: 8px 16px;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+      align-items: center;
+  height: 40px;
+  padding: 0px 8px;
+  cursor: pointer;
+  background-color: #252525;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-span01 {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 0%;
+          flex: 1 1 0%;
+  color: #FEFEFE;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 {
+  position: relative;
+  display: inline-block;
+  background-color: #cccccc;
+  width: 40px;
+  height: 24px;
+  border-radius: 12px;
+  -webkit-transition: background-color 0.2s ease 0s;
+  transition: background-color 0.2s ease 0s;
+  cursor: pointer;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 .nicodark-cb {
+  display: none;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 .nicodark-span02 {
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: white;
+  -webkit-transition: left 0.2s ease 0s;
+  transition: left 0.2s ease 0s;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02[aria-checked="true"] {
+  background-color: #0080FF;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02[aria-checked="true"] .nicodark-span02 {
+  left: 18px;
+}
+
+.niconico-darkmode-setting-true .FooterContainer a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .FooterContainer a:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .FooterContainer .FooterContainer-column {
+  border-top: 2px solid #FEFEFE;
+}
+
+.toPageTopWrap {
+  background: #333333 !important;
+}
+
+.toPageTopWrap .inner a:hover, .toPageTopWrap .inner a:active {
+  background: #333333 !important;
+  border: none !important;
+  color: #FEFEFE !important;
+}
+
+#footerWrap {
+  background: #1A1B1C !important;
+}
+
+#footerWrap a {
+  color: #FEFEFE !important;
+}
+
+#footerWrap a:hover {
+  color: #0080FF !important;
+}
+
+#footerWrap #footerNav .outer h3 {
+  border-bottom: #555555 solid 1px !important;
+  color: #FEFEFE !important;
+}
+
+#footerWrap #footerNav ul li {
+  background: none !important;
+}
+
+#footerWrap .figureWrap span, #footerWrap .figureWrap small {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true {
+  background-color: #1A1B1C !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true #logo_zero a {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true #header_date .head_yesterday, .niconico-darkmode-setting-true #header_date .head_tomorrow {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true #header_date p, .niconico-darkmode-setting-true #header_date .date, .niconico-darkmode-setting-true #header_date .days {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true #header_date h1 {
+  border-bottom: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true #navigation {
+  background: none !important;
+}
+
+.niconico-darkmode-setting-true #navigation span {
   background: #252525 !important;
 }
-#navigation span:hover{
+
+.niconico-darkmode-setting-true #navigation span a {
+  background: none !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true #navigation span:hover {
   background: #555555 !important;
 }
-#navigation span a{
-  background: none !important;
-}
-.navi_lastweek ::before{
+
+.niconico-darkmode-setting-true #navigation .navi_lastweek::before {
   content: "◀◀  ";
-  transform: scale(0.3, 1);
+  color: #666;
+  -webkit-transform: scale(0.3, 1);
+          transform: scale(0.3, 1);
 }
-.navi_yesterday ::before{
+
+.niconico-darkmode-setting-true #navigation .navi_yesterday::before {
   content: "◀  ";
-  transform: scale(0.3, 1);
+  color: #666;
+  -webkit-transform: scale(0.3, 1);
+          transform: scale(0.3, 1);
 }
-.navi_tomorrow ::after{
+
+.niconico-darkmode-setting-true #navigation .navi_tomorrow::after {
   content: "  ▶";
-  transform: scale(0.3, 1);
+  color: #666;
+  -webkit-transform: scale(0.3, 1);
+          transform: scale(0.3, 1);
 }
-.navi_nextweek ::after{
+
+.niconico-darkmode-setting-true #navigation .navi_nextweek::after {
   content: "  ▶▶";
-  transform: scale(0.3, 1) !important;
-}
-#today_calendar_open{
-  filter: invert();
-}
-#today_calendar_close{
-  filter: invert();
-}
-.calendar_table{
-  background-color: #35393B !important;
-}
-th.calendar_1,th.calendar_2,th.calendar_3,th.calendar_4,th.calendar_5{
-  color: white !important;
-}
-.calendar_table th{
-  border-bottom: 1px solid #767676 !important;
-}
-.calendar_table td:hover{
-  background: #767676 !important;
-}
-.calendar_table td a:hover{
-  color: white !important;
-  text-decoration: underline !important;
-}
-#today_contents{
-  border: none !important;
-  background: #1A1B1C !important;
-}
-#today_contents h2{
-  color: white !important;
-  border-bottom: 1px solid #767676 !important;
+  color: #666;
+  -webkit-transform: scale(0.3, 1) !important;
+          transform: scale(0.3, 1) !important;
 }
 
-#today_contents a:hover{
+.niconico-darkmode-setting-true #today_content_calender #today_calendar_open, .niconico-darkmode-setting-true #today_content_calender #today_calendar_close {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .calendar_table {
+  background-color: #333333 !important;
+}
+
+.niconico-darkmode-setting-true .calendar_table th {
+  border-bottom: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true .calendar_table td:hover {
+  background: #555555 !important;
+}
+
+.niconico-darkmode-setting-true .calendar_table td a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .calendar_table td a:hover {
   text-decoration: underline !important;
 }
 
-#today_program{
-  background: #1A1B1C !important;
-}
-.clearfix dt span, .clearfix dt{
-  color: whitesmoke !important;
-}
-#today_program dl{
-  border-bottom: 1px dashed #767676 !important;
+.niconico-darkmode-setting-true .calendar_table th.calendar_1,
+.niconico-darkmode-setting-true .calendar_table th.calendar_2,
+.niconico-darkmode-setting-true .calendar_table th.calendar_3,
+.niconico-darkmode-setting-true .calendar_table th.calendar_4,
+.niconico-darkmode-setting-true .calendar_table th.calendar_5 {
+  color: #FEFEFE !important;
 }
 
-.toPageTopWrap{
-  background: #35393B !important;
-}
-.toPageTopWrap .inner a:hover, .toPageTopWrap .inner a:active{
-  background: #35393B !important;
+.niconico-darkmode-setting-true #today_contents {
   border: none !important;
-  color: whitesmoke !important;
-}
-
-#footerWrap{
   background: #1A1B1C !important;
 }
-#footerWrap #footerNav .outer h3{
-  border-bottom: #767676 solid 1px !important;
-  color: white !important;
+
+.niconico-darkmode-setting-true #today_contents h2 {
+  color: #FEFEFE !important;
+  border-bottom: 1px solid #555555 !important;
 }
-#footerWrap #footerNav ul li{
-  background: none !important;
+
+.niconico-darkmode-setting-true #today_contents a {
+  color: #FEFEFE !important;
 }
-.figureWrap span,.figureWrap small{
-  color: whitesmoke !important;
+
+.niconico-darkmode-setting-true #today_contents a:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true #today_program {
+  background: #1A1B1C !important;
+}
+
+.niconico-darkmode-setting-true #today_program dl {
+  border-bottom: 1px dashed #555555 !important;
+}
+
+.niconico-darkmode-setting-true #today_program dl dt, .niconico-darkmode-setting-true #today_program dl dt span {
+  color: #FEFEFE !important;
 }

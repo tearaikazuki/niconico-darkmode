@@ -1,0 +1,120 @@
+@import '../parts/_default';
+@import '../parts/_header';
+@import '../parts/_footer';
+
+.niconico-darkmode-setting-true{
+  background-color:$main-background-color !important;
+  color: $main-text-color !important;
+
+  #logo_zero a{
+    filter: $invert;
+  }
+
+  #header_date{
+    .head_yesterday,.head_tomorrow{
+      filter: $invert;
+    }
+    p, .date, .days{
+      color: $main-text-color;
+    }
+    h1{
+      border-bottom: 1px solid $border-background-color !important;
+    }
+  }
+
+  #navigation{
+    background: none !important;
+
+    span{
+      background: $nico-default-bg !important;
+      a{
+        background: none !important;
+        color: $main-text-color !important;
+      }
+    }
+    span:hover{
+      background: $hover-background-color !important;
+    }
+
+    .navi_lastweek::before{
+      content: "◀◀  ";
+      color: $sub-2-text-color;
+      transform: scale(0.3, 1);
+    }
+    .navi_yesterday::before{
+      content: "◀  ";
+      color: $sub-2-text-color;
+      transform: scale(0.3, 1);
+    }
+    .navi_tomorrow::after{
+      content: "  ▶";
+      color: $sub-2-text-color;
+      transform: scale(0.3, 1);
+    }
+    .navi_nextweek::after{
+      content: "  ▶▶";
+      color: $sub-2-text-color;
+      transform: scale(0.3, 1) !important;
+    }
+
+
+  }
+
+  #today_content_calender{
+    #today_calendar_open,#today_calendar_close{
+      filter: $invert;
+    }
+  }
+  .calendar_table{
+    background-color: $sub2-background-color !important;
+
+    th{
+      border-bottom: 1px solid $border-background-color !important;
+    }
+    td:hover{
+      background: $border-background-color !important;
+    }
+    td a{
+      color: $main-text-color !important;
+    }
+    td a:hover{
+      text-decoration: underline !important;
+    }
+
+    th.calendar_1,
+    th.calendar_2,
+    th.calendar_3,
+    th.calendar_4,
+    th.calendar_5{
+      color: $main-text-color !important;
+    }
+  }
+
+  #today_contents{
+    border: none !important;
+    background: $main-background-color !important;
+
+    h2{
+      color: $main-text-color !important;
+      border-bottom: 1px solid $border-background-color !important;
+    }
+    a{
+      color: $main-text-color !important;
+    }
+    a:hover{
+      color: $main-url-color !important;
+    }
+  }
+
+  #today_program{
+    background: $main-background-color !important;
+
+    dl{
+      border-bottom: 1px dashed $border-background-color !important;
+
+      dt, dt span{
+        color: $main-text-color !important;
+      }
+    }
+  }
+}

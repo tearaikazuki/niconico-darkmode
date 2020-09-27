@@ -1,0 +1,219 @@
+@import '../parts/_default';
+@import '../parts/_header';
+@import '../parts/_serchbox';
+@import '../parts/_footer';
+
+.niconico-darkmode-setting-true{
+  background-color:$main-background-color !important;
+  color: $main-text-color !important;
+
+  .BaseLayout-main{
+    background-color:$main-background-color !important;
+    .TopPage{
+      .ArrowLink/*▶一覧*/{
+        color: $main-text-color !important;
+        fill: $main-text-color !important;
+      }
+      .ArrowLink:hover{
+        color: $main-url-color !important;
+      }
+      .NiconicoLogo{
+        filter: $invert;
+      }
+      .PersonalFrameContainer /*オススメ*/{
+        background-color: $sub-background-color !important;
+        .PersonalFrameContainer-title{
+          color: $main-text-color !important;
+        }
+        .PersonalFrameContainer-description{
+          background-color: $sub2-background-color !important;
+          color: $main-text-color !important;
+        }
+        .PersonalFrameContainer-close{
+          filter: $invert;
+        }
+      }
+      .NiconicoNoticeContainer /*ニコニコインフォ*/{
+        background-color: $sub2-background-color !important;
+        border:solid 1px $border-background-color !important;
+        color: $main-text-color !important;
+
+        a{
+          color: $main-text-color;
+        }
+        a:hover{
+          color: $main-url-color;
+        }
+
+        .NiconicoNoticeContainer-topNotification /*重要*/{
+          background-color: $hover-background-color !important;
+        }
+
+        .DottedList>li{
+          border-bottom: dashed 1px #555 !important;
+        }
+        .NiconicoNoticeContainer-header h1:before{
+          filter: $invert;
+        }
+      }
+      .TodayRecommendContainer /*デイリートピックス*/{
+        .ArrowLink/*▶一覧*/{
+          color: $main-text-color !important;
+          fill: $main-text-color !important;
+        }
+        .ArrowLink:hover{
+          color: $main-url-color !important;
+        }
+        .TodayRecommendContainer-header{
+          border-bottom: 1px solid $sub-background-color !important;
+          h1{
+            color: white !important;
+          }
+        }
+        .TodayRecommendContainer-block{
+          a{
+            color: $main-text-color;
+          }
+          a:hover{
+            color: $main-url-color;
+          }
+          .DottedList>li:not(:last-child){
+            border-bottom: dashed 1px #555 !important;
+          }
+        }
+      }
+
+      /*コンテナ 動画静画生放送*/
+      .NicovideoContainer,
+      .NicoseigaContainer,
+      .PastNicoliveContainer{
+        border-top: 4px solid $main-text-color !important;
+        a{
+          color: $main-text-color;
+        }
+        a:hover{
+          color: $main-url-color;
+        }
+      }
+      .PastNicoliveContainer-headerLogo{
+        filter: $invert;
+      }
+
+      /*コンテナ ニュース*/
+      .NiconewsContainer{
+        .DottedList>li{
+          border-bottom: dashed 1px #555 !important;
+        }
+        a{
+          color: $main-text-color;
+        }
+        a:hover{
+          color: $main-url-color;
+        }
+        .NiconewsContainer-photoNews{
+          background-color: $sub-background-color !important;
+        }
+        .Tabs-tab{
+          background-color: $sub-background-color !important;
+          color: $sub-1-text-color !important;
+        }
+        .Tabs-tab.is-active{
+          background-color: $nico-news !important;
+          color: $main-text-color !important;
+        }
+        footer{
+          border-top: none !important;
+        }
+      }
+
+      /*コンテナ アニメ・広告*/
+      .NAnimeContainer{
+        .NAnimeContainer-headerLogo{
+          filter: $invert;
+        }
+      }
+      .DAnimeStoreContainer{
+        background-color: #FAFAFA;
+      }
+      .NicoadContainer{
+        border-top: 4px solid $main-text-color !important;
+        a{
+          color: $main-text-color;
+        }
+        a:hover{
+          color: $main-url-color;
+        }
+        .NicoadContainer-headerLogo{
+          filter: $invert;
+        }
+        .NicoadItem [data-nicoad-sponsor]{
+          color: black !important;
+        }
+      }
+
+      /*コンテナ チャンネル・アプリ・アツマール*/
+      .ChannelContainer{
+        a{
+          color: $main-text-color;
+        }
+        a:hover{
+          color: $main-url-color;
+        }
+        .ChannelContainer-label{
+          color: black !important;
+        }
+        .ChannelContainer-column+.ChannelContainer-column,{
+          border-left: 1px dashed $border-background-color !important;
+        }
+      }
+      .NicoappContainer{
+        a div{
+          color: $main-text-color !important;
+        }
+        a:hover div{
+          color: $main-url-color !important;
+        }
+      }
+      .RPGAtsumaruContainer{
+        a{
+          color: $main-text-color !important;
+        }
+        a:hover{
+          color: $main-url-color !important;
+        }
+      }
+      .NicoappAndAtsumaruSeparatorContainer{
+        border-left: 1px dashed $border-background-color !important;
+      }
+
+      /*連絡コンテナ*/
+      .BaseNoticeContainer{
+        .DottedList>li:not(:last-child){
+          border-bottom: dashed 1px #555 !important;
+        }
+        a{
+          color: $main-text-color !important;
+        }
+        a:hover{
+          color: $main-url-color !important;
+        }
+        border-top: 2px solid $main-text-color !important;
+        .BaseNoticeContainer-headerIcon{
+          filter: $invert;
+        }
+      }
+      .PublishedArticlesContainer{
+        .DottedList>li:not(:last-child){
+          border-bottom: dashed 1px #555 !important;
+        }
+        border-top: 2px solid $main-text-color !important;
+        a{
+          color: $main-text-color !important;
+        }
+        a:hover{
+          color: $main-url-color !important;
+        }
+      }
+    }
+  }
+}

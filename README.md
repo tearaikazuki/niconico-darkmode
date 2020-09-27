@@ -1,3 +1,5 @@
+**branch v120_fix-code では SCSSへの置き換えをすすめる branch です**
+
 ![](https://img.shields.io/github/license/AyumuNekozuki/niconico-darkmode)
 
 ![](images/ss/ss1.png)

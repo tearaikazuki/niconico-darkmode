@@ -1,0 +1,574 @@
+@charset "UTF-8";
+.niconico-darkmode-setting-true #sideHeader a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true #sideHeader #siteHeaderInner ul li ul {
+  background: #272727 !important;
+}
+
+.niconico-darkmode-setting-true #sideHeader #siteHeaderLeftMenuContainer li a :hover {
+  color: black !important;
+}
+
+.niconico-darkmode-setting-true #sideHeader #siteHeaderNotification .siteHeaderNotificationContainer #siteHeaderNotificationWithNotification dd a {
+  background: #35393B !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-15gxh1a,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1cuw74j,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5onxr7 {
+  background-color: #252525 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1319btw {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g0o5vq:hover,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-10swg38:hover {
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5x0u19:hover,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-5onxr7:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-ibyxl4 {
+  background: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3 {
+  background-color: #252525 !important;
+  border: solid 2px #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover {
+  background-color: #D1A437 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover .common-header-1iolkct svg g g,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-g80xl3:hover .common-header-1sypczf {
+  fill: #FFFFFF !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1sypczf {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-zz80x3 {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-zz80x3:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-430bj8 {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-cvcm83 > * {
+  border-top: 1px solid #333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1gq7o6w {
+  background-color: #252525 !important;
+  border-bottom: #333 1px solid !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1gq7o6w:hover {
+  background-color: #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-1u02t5o {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-xp52wl {
+  border: #333 2px solid !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-xp52wl:hover {
+  background-color: #CC0000 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-yrq9nc {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4 {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4:nth-child(2n) {
+  border-left: 1px solid #555555 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-11j62e9 {
+  background-color: #252525 !important;
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-juy1p4:hover, .niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-11j62e9:hover {
+  background-color: #555555 !important;
+  text-decoration: none !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1l1lwin {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-9wgpqv {
+  background-color: #252525 !important;
+  border-top: 1px solid #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-abyv5k {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-sig2g svg path {
+  fill: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-kolmxm,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1swev0c {
+  background-color: #252525 !important;
+  border-bottom: 1px solid #555555 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-kolmxm div,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-1swev0c div {
+  color: #999 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-2cl2ey,
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-uruoug {
+  background-color: #333333 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-105n2rz {
+  background-color: #252525 !important;
+}
+
+.niconico-darkmode-setting-true .nico-CommonHeaderRoot .common-header-6zywm .common-header-g0cqhq {
+  border-bottom: none !important;
+}
+
+/*設定ボタン*/
+.common-header-nicodarksetting-but:hover {
+  background-color: #555555;
+}
+
+.common-header-nicodarksetting-but:hover > .nicodark-setting-menupanel {
+  display: block !important;
+}
+
+.common-header-nicodarksetting-but::after {
+  content: "";
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 0px;
+  height: 14px;
+  border-right: 1px solid #555555;
+}
+
+.nicodark-setting-menupanel {
+  display: none;
+  position: absolute;
+  width: 200px;
+  right: 0;
+  background: #252525;
+}
+
+.nicodark-setting-menupanel .nicodark-logo {
+  width: 100%;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu {
+  padding: 8px 16px;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+      align-items: center;
+  height: 40px;
+  padding: 0px 8px;
+  cursor: pointer;
+  background-color: #252525;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-span01 {
+  font-family: sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 0%;
+          flex: 1 1 0%;
+  color: #FEFEFE;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 {
+  position: relative;
+  display: inline-block;
+  background-color: #cccccc;
+  width: 40px;
+  height: 24px;
+  border-radius: 12px;
+  -webkit-transition: background-color 0.2s ease 0s;
+  transition: background-color 0.2s ease 0s;
+  cursor: pointer;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 .nicodark-cb {
+  display: none;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02 .nicodark-span02 {
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  background-color: white;
+  -webkit-transition: left 0.2s ease 0s;
+  transition: left 0.2s ease 0s;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02[aria-checked="true"] {
+  background-color: #0080FF;
+}
+
+.nicodark-setting-menupanel .nicodark-setting-menu .nicodark-label01 .nicodark-label02[aria-checked="true"] .nicodark-span02 {
+  left: 18px;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-services {
+  background-color: #1A1B1C !important;
+  border: solid 1px #555555 !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-services .CrossSearch-service {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .CrossSearch-input {
+  background-color: #1A1B1C !important;
+  color: #FEFEFE !important;
+  border: solid 1px #555555 !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .CrossSearch-button {
+  background-color: #333 !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .suggestBox {
+  background-color: #1A1B1C !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .suggestBox .suggestBoxInner {
+  border: 1px solid #555555;
+  background-color: #1A1B1C !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .suggestBox .suggestBoxInner a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .TopPage .CrossSearch-form .suggestBox .suggestBoxInner li:hover {
+  background-color: #555555 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .FooterContainer a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .FooterContainer a:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .FooterContainer .FooterContainer-column {
+  border-top: 2px solid #FEFEFE;
+}
+
+.niconico-darkmode-setting-true {
+  background-color: #1A1B1C !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main {
+  background-color: #1A1B1C !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage {
+  /*コンテナ 動画静画生放送*/
+  /*コンテナ ニュース*/
+  /*コンテナ アニメ・広告*/
+  /*コンテナ チャンネル・アプリ・アツマール*/
+  /*連絡コンテナ*/
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ArrowLink {
+  color: #FEFEFE !important;
+  fill: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ArrowLink:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoLogo {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PersonalFrameContainer {
+  background-color: #272727 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PersonalFrameContainer .PersonalFrameContainer-title {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PersonalFrameContainer .PersonalFrameContainer-description {
+  background-color: #333333 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PersonalFrameContainer .PersonalFrameContainer-close {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer {
+  background-color: #333333 !important;
+  border: solid 1px #555555 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer .NiconicoNoticeContainer-topNotification {
+  background-color: #555555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer .DottedList > li {
+  border-bottom: dashed 1px #555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconicoNoticeContainer .NiconicoNoticeContainer-header h1:before {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .ArrowLink {
+  color: #FEFEFE !important;
+  fill: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .ArrowLink:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .TodayRecommendContainer-header {
+  border-bottom: 1px solid #272727 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .TodayRecommendContainer-header h1 {
+  color: white !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .TodayRecommendContainer-block a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .TodayRecommendContainer-block a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .TodayRecommendContainer .TodayRecommendContainer-block .DottedList > li:not(:last-child) {
+  border-bottom: dashed 1px #555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicovideoContainer,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoseigaContainer,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PastNicoliveContainer {
+  border-top: 4px solid #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicovideoContainer a,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoseigaContainer a,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PastNicoliveContainer a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicovideoContainer a:hover,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoseigaContainer a:hover,
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PastNicoliveContainer a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PastNicoliveContainer-headerLogo {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer .DottedList > li {
+  border-bottom: dashed 1px #555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer .NiconewsContainer-photoNews {
+  background-color: #272727 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer .Tabs-tab {
+  background-color: #272727 !important;
+  color: #999 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer .Tabs-tab.is-active {
+  background-color: #ff8000 !important;
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NiconewsContainer footer {
+  border-top: none !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NAnimeContainer .NAnimeContainer-headerLogo {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .DAnimeStoreContainer {
+  background-color: #FAFAFA;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoadContainer {
+  border-top: 4px solid #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoadContainer a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoadContainer a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoadContainer .NicoadContainer-headerLogo {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoadContainer .NicoadItem [data-nicoad-sponsor] {
+  color: black !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ChannelContainer a {
+  color: #FEFEFE;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ChannelContainer a:hover {
+  color: #0080FF;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ChannelContainer .ChannelContainer-label {
+  color: black !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .ChannelContainer .ChannelContainer-column + .ChannelContainer-column {
+  border-left: 1px dashed #555555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoappContainer a div {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoappContainer a:hover div {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .RPGAtsumaruContainer a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .RPGAtsumaruContainer a:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .NicoappAndAtsumaruSeparatorContainer {
+  border-left: 1px dashed #555555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .BaseNoticeContainer {
+  border-top: 2px solid #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .BaseNoticeContainer .DottedList > li:not(:last-child) {
+  border-bottom: dashed 1px #555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .BaseNoticeContainer a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .BaseNoticeContainer a:hover {
+  color: #0080FF !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .BaseNoticeContainer .BaseNoticeContainer-headerIcon {
+  -webkit-filter: invert(100%);
+          filter: invert(100%);
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PublishedArticlesContainer {
+  border-top: 2px solid #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PublishedArticlesContainer .DottedList > li:not(:last-child) {
+  border-bottom: dashed 1px #555 !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PublishedArticlesContainer a {
+  color: #FEFEFE !important;
+}
+
+.niconico-darkmode-setting-true .BaseLayout-main .TopPage .PublishedArticlesContainer a:hover {
+  color: #0080FF !important;
+}
